@@ -142,3 +142,9 @@ function calcularLn(){
     pantalla.innerHTML=x; 
     xi=1;
 }
+function calcularPotencia(){
+    x=Math.pow(x,2);//calcular potencia y se guarda en la misma variable
+    pantalla.innerHTML=x; 
+    xi=1; 
+    
+}
